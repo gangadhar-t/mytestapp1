@@ -1,2 +1,2 @@
 # mytestapp1
-sample app to learn git
+Today we just started the project
